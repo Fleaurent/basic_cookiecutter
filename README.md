@@ -21,6 +21,7 @@ Python Boilerplate contains all the boilerplate you need to create a Python pack
 * TODO  
 
 # Credits  
+[modern python development toolkit](https://pycon.switowski.com/)
 
 
 This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
