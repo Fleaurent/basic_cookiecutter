@@ -15,6 +15,27 @@ Python Boilerplate contains all the boilerplate you need to create a Python pack
 * Free software: MIT license  
 * Documentation: https://basic-cookiecutter.readthedocs.io.  
 
+# pytest
+```bash
+pip install pytest
+pip install pytest-cov
+$ pytest
+```
+
+# docs sphinx
+```bash
+pip install sphinx
+$ make html
+```
+https://www.youtube.com/watch?v=t4vKPhjcMZg  
+
+split documentation into four main categories:
+
+- Tutorials: how a complete beginner can start using your application/library
+- How-to guides: recipes on how to solve specific problems
+- Explanations: explains how your project and its parts work
+- Reference: it’s like a Wikipedia page for your project
+
 
 # Features  
 
